@@ -18,8 +18,8 @@ Requirements:
 
 Execution:
 
- - Connect your previously configured Android to Appium
- - Raise your Appium application
- - Go to the mobile folder `${your_path}/mobile`
+ - (mobile automation) Connect your previously configured Android to Appium
+ - (mobile automation) Raise your Appium application
+ - Go to the mobile folder `${your_path}/mobile` or `${your_path}/backend`
  - Dependencies install command: `bundle install`
- - Run tests command `cucumber @client`
+ - Run tests command `cucumber`
