@@ -1,0 +1,9 @@
+[caps]
+platformName = "Android"
+deviceName = "pixel"
+app = "./app/client.apk"
+autoGrantPermissions = true
+newCommandTimeout = 3600
+[appium_lib]
+wait = 20
+debug = false
