@@ -1,0 +1,46 @@
+client:
+  btn_floating:
+    type_search: 'XPATH'
+    value: '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView'
+  btn_register_new:
+    type_search: 'ID'
+    value: 'br.com.dudstecnologia.cadastrodeclientes:id/floating_novo'
+  btn_complete:
+    type_search: 'ID'
+    value: 'br.com.dudstecnologia.cadastrodeclientes:id/rdCompleto'
+  field_name:
+    type_search: 'ID'
+    value: 'br.com.dudstecnologia.cadastrodeclientes:id/editNome'
+  field_rg:
+    type_search: 'ID'
+    value: 'br.com.dudstecnologia.cadastrodeclientes:id/editRg'
+  field_cpf:
+    type_search: 'ID'
+    value: 'br.com.dudstecnologia.cadastrodeclientes:id/editCpf'
+  field_date:
+    type_search: 'ID'
+    value: 'br.com.dudstecnologia.cadastrodeclientes:id/editData'
+  field_name_mother:
+    type_search: 'ID'
+    value: 'br.com.dudstecnologia.cadastrodeclientes:id/editMae'
+  field_name_father:
+    type_search: 'ID'
+    value: 'br.com.dudstecnologia.cadastrodeclientes:id/editPai'
+  field_address_name:
+    type_search: 'ID'
+    value: 'br.com.dudstecnologia.cadastrodeclientes:id/editEndereco'
+  field_address_number:
+    type_search: 'ID'
+    value: 'br.com.dudstecnologia.cadastrodeclientes:id/editNumero'
+  field_address_district:
+    type_search: 'ID'
+    value: 'br.com.dudstecnologia.cadastrodeclientes:id/editBairro'
+  field_address_cep:
+    type_search: 'ID'
+    value: 'br.com.dudstecnologia.cadastrodeclientes:id/editCep'
+  field_address_city:
+    type_search: 'ID'
+    value: 'br.com.dudstecnologia.cadastrodeclientes:id/editCidade'
+  btn_save:
+    type_search: 'ID'
+    value: 'br.com.dudstecnologia.cadastrodeclientes:id/btnSalvar'
