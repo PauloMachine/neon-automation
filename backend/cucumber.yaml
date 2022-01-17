@@ -1,0 +1,7 @@
+default: -p html_report -p prd
+
+### ENVIRONMENTS ###
+prd: ENVIRONMENT=prd
+
+### REPORTS ###
+html_report: --format pretty -f html -o reports/features_report.html

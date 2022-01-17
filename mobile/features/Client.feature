@@ -1,5 +1,5 @@
 @client
-Feature: Client registration
+Feature: Client
 
   Background:
     Given I'm on the client registration screen
