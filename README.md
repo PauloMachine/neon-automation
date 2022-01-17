@@ -1,10 +1,10 @@
-Technologies:
+# Technologies:
 
  - Ruby
  - Cucumber
  - Appium
 
-Requirements:
+# Requirements:
 
  - Mac ou Windows (Android)
     - with an environment variable $ANDROID_HOME configured in your SDK android
@@ -16,7 +16,7 @@ Requirements:
  - Appium (http://appium.io/)
  - Android Device 4.1 >=
 
-Execution:
+# Execution:
 
  - (mobile automation) Connect your previously configured Android to Appium
  - (mobile automation) Raise your Appium application
