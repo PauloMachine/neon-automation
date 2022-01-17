@@ -6,13 +6,13 @@ Technologies:
 
 Requirements:
 
- - Mac ou Windows (Android) 
-  - with an environment variable $ANDROID_HOME configured in your SDK android
+ - Mac ou Windows (Android)
+    - with an environment variable $ANDROID_HOME configured in your SDK android
  - Java 1.8 >=
  - Android SDK
  - Adb
  - Ruby 2.23 >=
-  - with bundler gem (gem install bundler)
+    - with bundler gem (gem install bundler)
  - Appium (http://appium.io/)
  - Android Device 4.1 >=
 
